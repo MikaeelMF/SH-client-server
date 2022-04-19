@@ -1,0 +1,3 @@
+[submodule "SH-Server"]
+	path = SH-Server
+	url = https://github.com/MikaeelMF/SH-Server
